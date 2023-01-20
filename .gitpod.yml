@@ -1,1 +1,5 @@
-image: jelaniwoods/tidyverse
+image: jelaniwoods/tidyverse-wip
+
+vscode:
+  extensions:
+    - anwar.papyrus-pdf
