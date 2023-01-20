@@ -1,7 +1,7 @@
 image: jelaniwoods/tidyverse-wip7
 
 tasks:
-  - before: |
+  - command: |
       make
       code paper.pdf
 
