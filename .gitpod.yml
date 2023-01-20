@@ -1,5 +1,10 @@
 image: jelaniwoods/tidyverse-wip7
 
+tasks:
+  - before: |
+      make
+      code paper.pdf
+
 vscode:
   extensions:
     - anwar.papyrus-pdf
