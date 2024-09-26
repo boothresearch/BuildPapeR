@@ -1,5 +1,6 @@
 # BuildPapeR
 
-Want to reproduce my results? [Click here to spin up a complete development environment.](http://gitpod.io/#https://github.com/boothresearch/BuildPapeR)
+Steps to build the paper:
 
-Then run `make` in the terminal.
+1. Run `make`
+2. That's it!
