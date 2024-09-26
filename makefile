@@ -1,2 +1,2 @@
-build_paper: earnings.R
+paper.pdf: earnings.R
 	Rscript earnings.R
